@@ -7,16 +7,14 @@
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaX0xF7m5LCpJKNtY1ecmiJYjB0ywzGfHOwAysGGthgc0xxdvH5mhhhPLJ0axv68GPxmEV3u7O_3eYuqjN-TJTvoBqiUwliOKNZvMPhu-vVhFebu_-X6t3nHUWEegWBkPE_8U-RRaZDRyXfOjVPlJGnM=w919-h581-s-no?authuser=0"/>
 고물가 시대로 인한 <strong>무지출, 짠테크 시대가 시작</strong>됐다. <br>
 식품 폐기량도 증가하고 있다. <strong>식품 폐기량은 연간 548만t, 처리비용은 1조 960억원</strong>이다
-
 </div>
-
 
 <h2>2. 기대 효과</h2>
 <br>
 <h4>공공목적 : 버려지는 쓰레기량 감소</h4>
 <h4>수익률 기대 : 구매자와 판매자 모두에게 이점이 있음</h2>
 <h4>접근성 : 직접 구매하기에 거리가 먼 제품 등을 보다 쉽게 구매할 수 있음</h2>
-<h4>지역 경제 활성화 : 사회복지기관 등 도움이 필요한 곳에 유통기한 임박한 제품을 전달 하거나 수익의 일부를 기부 함으로써 사회 공헌에 이바지 할 수 있다</h4>
+<h4>지역 경제 활성화 : 사회복지기관 등 도움이 필요한 곳에 유통기한 임박한 제품을 전달 하거나 <br>수익의 일부를 기부 함으로써 사회 공헌에 이바지 할 수 있다</h4>
 
 
 <h2>3. 프로젝트 사용 툴</h2>
@@ -44,8 +42,8 @@
 5-1 퍼블리싱<br>
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaVK5ldIb9UgJYDnehRrEx2SNDOECOzTwpbCWULPHBqV0S14MR_OWQhZAovjBSpbpxmKfQVdoZo4vNosHwPh20z6Tsx4xcWWBV9fYajJ--of0QroNKaZfIcPqk2ew2xzag2AyKJozATkHLIfLKuaCefU=w1116-h86-s-no?authuser=0" style = "width: 90%;">
 
-▶ 회원
--아이디 찾기
+▶ 회원<br>
+-아이디 찾기<br>
 -비밀번호 찾기
 
 
@@ -64,7 +62,7 @@
 - 결제 완료
  
  
-
+ 
 <h2>6. 느낀점</h2>
 <h3>6-1. 어려웠던 부분</h3>
 처음 ERD를 만들어 봐서 ERD를 만들 때, 어떤 테이블과 컬럼으로 구성해야하는지 그리고 PK, FK 관계도 어려웠습니다 <br>
